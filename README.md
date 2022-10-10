@@ -34,6 +34,3 @@ The training log can be seen in `train.log` and the official evaluation results 
 *Note*:
 * Some settings may be different from those mentioned in the paper.
 * No validation set used during training.
-
-
-## Reference Link
